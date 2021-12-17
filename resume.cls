@@ -26,7 +26,7 @@
 
 % Define Lengths and Set Margins
 \setlength{\headerheight}{1.05in}
-\setlength{\margin}{0.23in}
+\setlength{\margin}{0.2in}
 
 \setlength{\colarea}{\dimexpr \paperwidth - 4\margin}
 \setlength{\columnsep}{2\margin}
